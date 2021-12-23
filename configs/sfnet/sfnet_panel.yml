@@ -1,6 +1,6 @@
 _base_: '../_base_/panel.yml'
 
-batch_size: 4
+batch_size: 16
 iters: 200
 
 model:
