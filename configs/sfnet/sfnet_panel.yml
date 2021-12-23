@@ -1,7 +1,7 @@
 _base_: '../_base_/panel.yml'
 
 batch_size: 4
-iters: 2000
+iters: 120
 
 model:
   type: SFNet
